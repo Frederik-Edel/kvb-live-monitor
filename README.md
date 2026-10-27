@@ -212,12 +212,11 @@ Zur ersten Aktivierung auf GitHub:
 4. Die veröffentlichte Website ist anschließend unter
    `https://frederik-edel.github.io/kvb-live-monitor/` erreichbar.
 
-Das Repository wurde als privat gewünscht. GitHub Pages für private
-Repositories ist nur bei Tarifen verfügbar, die Pages für private Repositories
-unterstützen. Falls der Tarif das nicht unterstützt, muss das Repository
-öffentlich werden oder ein anderer Hosting-Anbieter verwendet werden. Die
-Website selbst kann je nach GitHub-Tarif öffentlich erreichbar sein, obwohl der
-Quellcode privat bleibt.
+Das Repository ist öffentlich, damit die GitHub-Pages-Website erreichbar ist.
+Wenn GitHub Pages nach einer Änderung der Quelle zunächst weiterhin die
+README statt der Flutter-App ausliefert, den Workflow unter **Actions** erneut
+starten und auf den erfolgreichen Abschluss des Flutter-Builds und Deployments
+warten.
 
 Standortzugriff im Browser benötigt HTTPS und eine vom Benutzer erteilte
 Berechtigung. Das native Android-Startbildschirm-Widget ist nicht Bestandteil
